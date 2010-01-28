@@ -1,0 +1,58 @@
+body {margin:0; padding:0; background:url(images/body.jpg)}
+form {margin:0; padding:0}
+
+td, tr {font:12px/14px georgia, arial, helvetica, sans-serif; color:#5C5741; vertical-align:top;  text-align:left;}
+
+.end{ color:#E7E6C5; text-decoration:none; font-size:12px;}
+.end a{ color:#FBBE2D; text-decoration:none; font-size:12px;}
+.end a:hover{ color:#FBBE2D; text-decoration:underline; font-size:12px;}
+
+.m1{ background-image:url(images/m1.jpg); background-repeat:no-repeat;}
+.m1m{ background-image:url(images/m1m.jpg); background-repeat:no-repeat;}
+.m2{ background-image:url(images/m2.jpg); background-repeat:no-repeat;}
+.m2m{ background-image:url(images/m2m.jpg); background-repeat:no-repeat;}
+.m3{ background-image:url(images/m3.jpg); background-repeat:no-repeat;}
+.m3m{ background-image:url(images/m3m.jpg); background-repeat:no-repeat;}
+.m4{ background-image:url(images/m4.jpg); background-repeat:no-repeat;}
+.m4m{ background-image:url(images/m4m.jpg); background-repeat:no-repeat;}
+.m5{ background-image:url(images/m5.jpg); background-repeat:no-repeat;}
+.m5m{ background-image:url(images/m5m.jpg); background-repeat:no-repeat;}
+.m6{ background-image:url(images/m6.jpg); background-repeat:no-repeat;}
+.m6m{ background-image:url(images/m6m.jpg); background-repeat:no-repeat;}
+.m7{ background-image:url(images/m7.jpg); background-repeat:no-repeat;}
+.m7m{ background-image:url(images/m7m.jpg); background-repeat:no-repeat;}
+.m8{ background-image:url(images/m8.jpg); background-repeat:no-repeat;}
+.m8m{ background-image:url(images/m8m.jpg); background-repeat:no-repeat;}
+
+a{ color:#434200; text-decoration:underline;}
+a:hover{ color:#434200; text-decoration:none;}
+strong a{ color:#1D5256; text-decoration:none; font-weight:normal; font-style:italic;}
+strong a:hover{ color:#1D5256; text-decoration:underline;  font-weight:normal; font-style:italic;}
+
+
+
+.form1 td input{ width:171px; height:19px; border:1px solid; background-color:#504931 #DAD5C2 #DAD5C2 #504931; padding:1px 0 1px 6px; color:#73654B; font-weight:bold; font-family:tahoma}
+
+
+
+.r1 ul { margin:0; padding:0; list-style:none;}
+.r1 li { background:url(images/ch_1.gif) center left no-repeat; margin:0 0 0 0; padding:1px 0 0 9px;}
+.r1 li a {line-height:16px; color:#434200; text-decoration:underline; font-weight:normal; background-position:left center;}
+.r1 li a:hover { text-decoration:none; color:#434200}
+
+
+.r2 ul { margin:0; padding:0; list-style:none;}
+.r2 li { background:url(images/ch_2.gif) center left no-repeat; margin:0 0 0 0; padding:1px 0 0 9px;}
+.r2 li a {line-height:18px; color:#E7E6C5; text-decoration:underline; font-weight:normal; background-position:left center;}
+.r2 li a:hover { text-decoration:none; color:#E7E6C5}
+
+
+.deep td{ color:#E7E6C5; font-size:12px;}
+.deep td strong{ color:#FBBE2D; font-size:12px; font-weight:normal;}
+.deep td b a{ color:#FBBE2D; text-decoration:none; font-weight:normal; font-style:italic;}
+.deep td b a:hover{ color:#FBBE2D; text-decoration:underline;  font-weight:normal; font-style:italic;}
+
+.form td input{ width:185px; height:19px; border:1px solid; background-color:#504931 #DAD5C2 #DAD5C2 #504931; padding:1px 0 1px 6px; color:#73654B; font-weight:bold; font-family:tahoma; font-size:11px;}
+.form td textarea{ width:185px; height:86px; border:1px solid; background-color:#504931 #DAD5C2 #DAD5C2 #504931; padding:1px 0 1px 6px; color:#73654B; font-weight:bold; font-family:tahoma; overflow:auto; font-size:11px;}
+
+.cc strong{ color:#434200; font-weight:normal}
